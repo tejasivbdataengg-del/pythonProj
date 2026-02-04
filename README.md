@@ -1,0 +1,2 @@
+# pythonProj
+Python code practices
